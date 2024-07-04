@@ -1,4 +1,4 @@
-# Cypress-Básico-v2
+# Testes automatizados com Cypress - Básico
 
 👋 Seja bem-vindo(a)!
 
@@ -22,7 +22,7 @@ Durante o curso de testes automatizados com Cypress (básico), você vai aprende
 
 ## Vamos começar?
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+Vá para a seção [estrutura do curso](._course-structure_.md).
 
 ___
 
